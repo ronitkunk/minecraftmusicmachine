@@ -1,0 +1,368 @@
+D4 bone_block
+A3
+D4
+A3
+D4
+A3
+D4
+A#3
+D4
+A#3
+D4
+A#3
+D4
+A#3
+D4
+A3
+D4
+A3
+D4
+A3
+D4
+A3
+D4
+A#3
+D4
+A#3
+D4
+A#3
+D4
+A#3
+D4
+A3
+A3 white_wool$ Benny's riff
+B3
+D4
+E4
+F#4
+-
+-
+-
+-
+-
+F#4$ somewhat like ... will i ever learn
+E4
+F#4
+E4
+D4
+-
+A3$ somewhat like ... i don't know how
+B3
+D4
+E4
+F#4
+-
+-
+-
+-
+-
+F#4
+E4
+F#4
+E4
+D4
+-
+A3 waxed_copper_block$ I've been cheated by you
+-
+D4
+-
+C#4
+D4
+E4
+F#4
+-
+D4
+D4
+D4
+C#4
+D4
+C#4
+C#4
+B3
+-
+D4 bone_block
+D4
+E4
+D4
+D4
+D4
+-
+D4
+G4
+G4
+F#4
+D4
+D4
+D4
+A3 waxed_copper_block$ So I made up my mind
+-
+D4
+-
+C#4
+D4
+E4
+F#4
+-
+D4
+D4
+D4
+C#4
+D4
+C#4
+C#4
+B3
+-
+D4 bone_block
+D4
+E4
+D4
+D4
+D4
+-
+D4
+G4
+G4
+F#4
+D4
+D4
+D4
+A3 waxed_copper_block$ Look at me now
+B3
+D4
+E4
+F#4
+-
+-
+-
+-
+-
+F#4$ will i ever learn
+E4
+F#4
+E4
+D4
+-
+A3$ I don't know how
+B3
+D4
+E4
+F#4
+-
+-
+-
+-
+-
+F#4$ but I suddenly
+E4
+G4
+F#4
+D4
+E4$ lo...
+-
+F#4$ ...se con...
+-
+E4$$ ..trol
+D4
+-
+-
+-
+-
+-
+F#4$ There's a
+F#4
+F#4$ fire within
+E4
+D4
+E4
+- 
+F#4$ my
+-
+A3$ soul
+-
+-
+-
+-
+-
+-
+-
+-
+G4$ Just
+-
+F#4$ one
+-
+E4$ look
+A3
+A3
+A3
+A3
+B3
+A3
+A3
+-
+-
+-
+-
+G4$ One
+-
+F#4$ more
+-
+E4$ look
+A3
+A3
+A3
+A3
+B3
+A3
+A3
+-
+-
+-
+-
+F#4$ Whoa
+D4
+E4
+D4
+-
+-
+E4$ Mamma mia!
+D4
+E4
+D4
+-
+-
+-
+-
+D4$ Here I go again
+D4
+E4
+F#4
+E4
+D4
+-
+-
+E4$ My my
+-
+D4
+-
+-
+G4$ how...
+-
+G4$ ...can
+G4$ I
+G4$ re...
+F#4$ ...sist
+-
+D4$ you
+-
+-
+-
+E4$ Mamma mia!
+D4
+E4
+D4
+-
+-
+-
+-
+D4$ Does it show again?
+D4
+E4
+F#4
+E4
+D4
+-
+-
+E4$ My my
+-
+D4
+-
+-
+G4$ just...
+-
+G4$ ...how
+G4$ much
+G4$ I
+F#4$ missed
+-
+D4$ you
+-
+-
+-
+A4$ Yes,
+-
+-
+A4$ I've
+A4$ been
+A4$ bro...
+-
+E4$ ...ken
+-
+F#4$ hear..
+-
+G4$ ...ted
+-
+-
+-
+-
+F#4$ Blue
+-
+-
+F#4$ since
+F#4$ the
+F#4$ day
+-
+C#4$ we
+-
+D4$ par...
+-
+E4$ ...ted
+-
+-
+-
+-
+E4$ Why
+-
+D4$ why,
+-
+-
+G4$ did
+-
+G4$ I
+F#4$ e...
+D4$ ...ver
+E4$ let
+D4$ you
+E4$ go..
+D4$ ..o?
+-
+-
+E4
+D4
+F#4
+E4
+D4
+C#4
+B3
+-
+D4
+D4
+E4
+F#4
+E4
+D4
+-
+-
+E4$ My
+-
+D4$ my,
+-
+-
+G4$ I
+-
+G4$ could
+F#4$ ne...
+D4$ ...ver
+E4$ let
+D4$ you
+E4$ go..
+D4$ ..o.

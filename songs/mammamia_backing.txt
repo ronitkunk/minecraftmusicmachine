@@ -1,0 +1,368 @@
+D4 oak_log
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D4
+-
+D5 stone
+-
+D4 minecraft:stone$ I've been cheated
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ So I've made up my mind
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ end
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ Look at me now
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ I don't know how
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ Lose control
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+G3 glowstone
+D4 minecraft:stone$ Just one look
+A3 glowstone
+D5 stone
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+G3 glowstone
+D4 minecraft:stone$ One more Look
+A3 glowstone
+D5 stone
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+-
+D5
+-
+D5$ Whoa
+D5
+D5
+D5
+D4 oak_log$ Mamma mia! Here I go again!
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+G4$ My my,
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+D4 oak_log$ Mamma mia! Does it show again?
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+D4
+G4
+G4
+G4$ My my,
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+G4
+D4 glowstone$ missed you
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+C#4 glowstone$ broken hearted
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+B3 glowstone$ blue since the
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+A3 glowstone$ day we parted
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone$ Mamma mia
+-
+D5 stone
+-
+F#5 glowstone
+E5
+D5
+C#5
+B4
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
+D4 minecraft:stone
+-
+D5 stone
+-
